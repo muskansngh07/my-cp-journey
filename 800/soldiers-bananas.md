@@ -28,4 +28,4 @@ public class Main
 }
 ```
 #### Note
-1. Demonstrates fair use of BufferedReader when inputs have to be take in a single line. 
+1. Demonstrates fair use of BufferedReader when inputs have to be taken in a single line. 
